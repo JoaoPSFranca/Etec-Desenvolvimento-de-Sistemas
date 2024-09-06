@@ -1,0 +1,9 @@
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\bin\Debug\prj35347_IMC_Dll.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\bin\Debug\prj35347_IMC_Dll.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\bin\Debug\prj35347_IMC_Classe.dll
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\obj\x86\Debug\prj35347_IMC_Dll.csprojResolveAssemblyReference.cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\obj\x86\Debug\prj35347_IMC_Dll.frm35347_IMC_Dll.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\obj\x86\Debug\prj35347_IMC_Dll.Properties.Resources.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\obj\x86\Debug\prj35347_IMC_Dll.csproj.GenerateResource.Cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\obj\x86\Debug\prj35347_IMC_Dll.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC_Dll\prj35347_IMC_Dll\obj\x86\Debug\prj35347_IMC_Dll.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\bin\Debug\prjPalindromoClasse.exe
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\bin\Debug\prjPalindromoClasse.pdb
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\obj\x86\Debug\prjPalindromoClasse.frm35347_Palindromo.resources
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\obj\x86\Debug\prjPalindromoClasse.Properties.Resources.resources
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\obj\x86\Debug\prj35347_PalindromoClasse.csproj.GenerateResource.Cache
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\obj\x86\Debug\prjPalindromoClasse.exe
+C:\Users\aluno.ETECAF\Desktop\prjPalindromoClasse\prjPalindromoClasse\obj\x86\Debug\prjPalindromoClasse.pdb

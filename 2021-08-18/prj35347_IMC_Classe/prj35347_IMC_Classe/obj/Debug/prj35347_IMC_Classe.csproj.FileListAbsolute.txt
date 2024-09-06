@@ -1,0 +1,4 @@
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_IMC_Classe\prj35347_IMC_Classe\bin\Debug\prj35347_IMC_Classe.dll
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_IMC_Classe\prj35347_IMC_Classe\bin\Debug\prj35347_IMC_Classe.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_IMC_Classe\prj35347_IMC_Classe\obj\Debug\prj35347_IMC_Classe.dll
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_IMC_Classe\prj35347_IMC_Classe\obj\Debug\prj35347_IMC_Classe.pdb

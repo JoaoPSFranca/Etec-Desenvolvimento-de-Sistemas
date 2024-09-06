@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\bin\Debug\prj35347_Triangulos.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\bin\Debug\prj35347_Triangulos.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.frm35347_Triangulo.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista04_WindowsForm\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\bin\Debug\prj35347_Triangulos.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\bin\Debug\prj35347_Triangulos.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.frm35347_Triangulo.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-12\prj35347_Triangulos\prj35347_Triangulos\obj\x86\Debug\prj35347_Triangulos.csprojResolveAssemblyReference.cache

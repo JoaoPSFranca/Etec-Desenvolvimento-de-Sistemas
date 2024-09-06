@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.frm35347_Cartao.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.Properties.Resources.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\bin\Debug\prj35347_Cartao.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\bin\Debug\prj35347_Cartao.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\bin\Debug\prj35347_Cartao.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\bin\Debug\prj35347_Cartao.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.frm35347_Cartao.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.Properties.Resources.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-09-22\prj35347_Cartao\prj35347_Cartao\obj\x86\Debug\prj35347_Cartao.csproj.GenerateResource.Cache

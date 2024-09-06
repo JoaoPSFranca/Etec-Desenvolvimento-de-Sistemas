@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\bin\Debug\prj35347_CPF.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\bin\Debug\prj35347_CPF.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.frm35347_CPF.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.Properties.Resources.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\bin\Debug\prj35347_CPF.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\bin\Debug\prj35347_CPF.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.frm35347_CPF.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.Properties.Resources.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-10-27\prj35347_CPF\prj35347_CPF\obj\x86\Debug\prj35347_CPF.csproj.GenerateResource.Cache

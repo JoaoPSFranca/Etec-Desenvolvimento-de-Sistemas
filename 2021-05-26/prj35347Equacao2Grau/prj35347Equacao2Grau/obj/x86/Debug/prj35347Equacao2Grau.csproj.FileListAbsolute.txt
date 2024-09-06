@@ -1,0 +1,16 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\bin\Debug\prj35347Equacao2Grau.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\bin\Debug\prj35347Equacao2Grau.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.frm35347Equacao2Grau.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.csprojResolveAssemblyReference.cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\bin\Debug\prj35347Equacao2Grau.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\bin\Debug\prj35347Equacao2Grau.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.csprojResolveAssemblyReference.cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.frm35347Equacao2Grau.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.Properties.Resources.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-05-26\prj35347Equacao2Grau\prj35347Equacao2Grau\obj\x86\Debug\prj35347Equacao2Grau.csproj.GenerateResource.Cache

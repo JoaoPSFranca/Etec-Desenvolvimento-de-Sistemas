@@ -1,0 +1,15 @@
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Acad.frm35347_Acad.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_ImpostoRenda.frm35347_ImpostoRenda.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Menus.frm35347_Index.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Lista02_Ex1.frm35347_Lista02_Ex1.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Palindromo.frm35347_Palindromo.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Triangulos.frm35347_Triangulo.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Menus.Properties.Resources.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Menus.csproj.GenerateResource.Cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Lista02_Ex02.frm35347_Lista02_Ex02.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\bin\Debug\prj35347_Menus.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\bin\Debug\prj35347_Menus.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\bin\Debug\clsExtenso.dll
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Menus.csprojResolveAssemblyReference.cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Menus.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-11\prj35347_Menus\prj35347_Menus\obj\x86\Debug\prj35347_Menus.pdb

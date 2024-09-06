@@ -1,0 +1,8 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\bin\Debug\prj35347_Acad.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\bin\Debug\prj35347_Acad.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\obj\x86\Debug\prj35347_Acad.frm35347_Acad.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\obj\x86\Debug\prj35347_Acad.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\obj\x86\Debug\prj35347_Acad.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\obj\x86\Debug\prj35347_Acad.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\obj\x86\Debug\prj35347_Acad.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-09\prj35347_Acad\prj35347_Acad\obj\x86\Debug\prj35347_Acad.csprojResolveAssemblyReference.cache

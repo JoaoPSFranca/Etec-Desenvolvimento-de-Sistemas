@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\bin\Debug\prj_35347_IMC.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\bin\Debug\prj_35347_IMC.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\obj\x86\Debug\prj_35347_IMC.frm35347_IMC.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\obj\x86\Debug\prj_35347_IMC.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\obj\x86\Debug\prj_35347_IMC.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\obj\x86\Debug\prj_35347_IMC.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj_35347_IMC\prj_35347_IMC\obj\x86\Debug\prj_35347_IMC.pdb

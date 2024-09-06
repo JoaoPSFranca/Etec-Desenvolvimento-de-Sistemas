@@ -1,0 +1,14 @@
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\bin\Debug\prj35347_TituloEleitor.exe
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\bin\Debug\prj35347_TituloEleitor.pdb
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.frm35347_TituloEleitor.resources
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.Properties.Resources.resources
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.csproj.GenerateResource.Cache
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.exe
+C:\Users\aluno.ETECAF\Desktop\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\bin\Debug\prj35347_TituloEleitor.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\bin\Debug\prj35347_TituloEleitor.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.frm35347_TituloEleitor.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.Properties.Resources.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-11-17\prj35347_TituloEleitor\prj35347_TituloEleitor\obj\x86\Debug\prj35347_TituloEleitor.csproj.GenerateResource.Cache

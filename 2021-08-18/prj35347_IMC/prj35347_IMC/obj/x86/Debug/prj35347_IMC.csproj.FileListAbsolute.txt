@@ -1,0 +1,8 @@
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\bin\Debug\prj35347_IMC.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\bin\Debug\prj35347_IMC.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\obj\x86\Debug\prj35347_IMC.frm35347_IMC.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\obj\x86\Debug\prj35347_IMC.Properties.Resources.resources
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\obj\x86\Debug\prj35347_IMC.csproj.GenerateResource.Cache
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\obj\x86\Debug\prj35347_IMC.exe
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\obj\x86\Debug\prj35347_IMC.pdb
+C:\Users\João Pedro\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\2021-08-18\prj35347_IMC\prj35347_IMC\obj\x86\Debug\prj35347_IMC.csprojResolveAssemblyReference.cache

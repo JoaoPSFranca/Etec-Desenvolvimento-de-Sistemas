@@ -1,0 +1,4 @@
+C:\Users\aluno.ETECAF\Desktop\cls35347_E2GClass\cls35347_E2GClass\bin\Debug\cls35347_E2GClass.dll
+C:\Users\aluno.ETECAF\Desktop\cls35347_E2GClass\cls35347_E2GClass\bin\Debug\cls35347_E2GClass.pdb
+C:\Users\aluno.ETECAF\Desktop\cls35347_E2GClass\cls35347_E2GClass\obj\Debug\cls35347_E2GClass.dll
+C:\Users\aluno.ETECAF\Desktop\cls35347_E2GClass\cls35347_E2GClass\obj\Debug\cls35347_E2GClass.pdb

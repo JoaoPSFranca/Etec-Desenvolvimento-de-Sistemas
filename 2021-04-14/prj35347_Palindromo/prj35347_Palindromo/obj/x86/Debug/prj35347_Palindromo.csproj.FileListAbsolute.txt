@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\bin\Debug\prj35347_Palindromo.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\bin\Debug\prj35347_Palindromo.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\obj\x86\Debug\prj35347_Palindromo.frm35347_Palindromo.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\obj\x86\Debug\prj35347_Palindromo.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\obj\x86\Debug\prj35347_Palindromo.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\obj\x86\Debug\prj35347_Palindromo.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-04-14\prj35347_Palindromo\prj35347_Palindromo\obj\x86\Debug\prj35347_Palindromo.pdb

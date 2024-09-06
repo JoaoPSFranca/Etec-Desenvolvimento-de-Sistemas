@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\bin\Debug\prj35347_RM.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\bin\Debug\prj35347_RM.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\obj\x86\Debug\prj35347_RM.frm35347_RM.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\obj\x86\Debug\prj35347_RM.Properties.Resources.resources
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\obj\x86\Debug\prj35347_RM.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\obj\x86\Debug\prj35347_RM.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.DS\Licoes\prj35347_RM\prj35347_RM\obj\x86\Debug\prj35347_RM.pdb

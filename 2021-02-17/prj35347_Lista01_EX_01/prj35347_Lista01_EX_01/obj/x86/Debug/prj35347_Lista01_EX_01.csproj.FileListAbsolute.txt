@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\bin\Debug\prj35347_Lista01_EX_01.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\bin\Debug\prj35347_Lista01_EX_01.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\obj\x86\Debug\prj35347_Lista01_EX_01.frm35347_lista01_exerc01.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\obj\x86\Debug\prj35347_Lista01_EX_01.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\obj\x86\Debug\prj35347_Lista01_EX_01.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\obj\x86\Debug\prj35347_Lista01_EX_01.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2020-02-17\prj35347_Lista01_EX_01\prj35347_Lista01_EX_01\obj\x86\Debug\prj35347_Lista01_EX_01.pdb

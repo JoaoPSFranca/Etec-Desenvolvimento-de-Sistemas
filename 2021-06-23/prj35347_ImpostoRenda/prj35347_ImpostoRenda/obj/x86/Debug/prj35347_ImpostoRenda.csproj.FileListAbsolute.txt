@@ -1,0 +1,9 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\bin\Debug\prj35347_ImpostoRenda.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\bin\Debug\prj35347_ImpostoRenda.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\obj\x86\Debug\prj35347_ImpostoRenda.frm35347_ImpostoRenda.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\obj\x86\Debug\prj35347_ImpostoRenda.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\obj\x86\Debug\prj35347_ImpostoRenda.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\obj\x86\Debug\prj35347_ImpostoRenda.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\obj\x86\Debug\prj35347_ImpostoRenda.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\obj\x86\Debug\prj35347_ImpostoRenda.csprojResolveAssemblyReference.cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.DS\Licoes\2021-06-23\prj35347_ImpostoRenda\prj35347_ImpostoRenda\bin\Debug\clsExtenso.dll
